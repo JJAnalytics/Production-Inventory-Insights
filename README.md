@@ -30,7 +30,8 @@ Rename Columns.
 
 ## View Of Dashboard
 
-<a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Screenshot%202025-01-27%20201433.png">View Dashboard</a>
+![image](https://github.com/user-attachments/assets/e0cbbaf5-0aa1-4555-813b-26ad770a78c2)
+
 
 ## Insights & Recommendations
 Some brands have overproduced, leading to excess inventory. Consider promotions or discounts to reduce unsold stock. 
