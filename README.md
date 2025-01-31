@@ -13,7 +13,7 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 
 - How can production be optimized to align with changing sales trends?
 
-<a href="[https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Screenshot%202025-01-27%20201433.png](https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Dashboard.png)">View Dashboard</a>
+<a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Cleaning & Transformation Of Dataset
 - Correct data types.
@@ -30,7 +30,7 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 
 ## View Of Dashboard
 
-![image](https://github.com/user-attachments/assets/e0cbbaf5-0aa1-4555-813b-26ad770a78c2)
+
 
 
 ## Insights & Recommendations
