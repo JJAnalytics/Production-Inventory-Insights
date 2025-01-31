@@ -30,8 +30,7 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 
 ## View Of Dashboard
 
-
-
+![image](https://github.com/user-attachments/assets/110524c9-5140-4d16-b564-ad216cd9ba54)
 
 ## Insights & Recommendations
 - Some brands have overproduced, leading to excess inventory. Consider promotions or discounts to reduce unsold stock. 
