@@ -7,24 +7,24 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/ebay_mens_perfume.csv">Dataset</a>
 
 ## Questions (KPIs)
--What brands are seeing an increase in popularity?
+- What brands are seeing an increase in popularity?
 
--Which brands have the most unsold inventory compared to their sales?
+- Which brands have the most unsold inventory compared to their sales?
 
--How can production be optimized to align with changing sales trends?
+- How can production be optimized to align with changing sales trends?
 
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Screenshot%202025-01-27%20201433.png">View Dashboard</a>
 
 ## Cleaning & Transformation Of Dataset
--Correct data types.
+- Correct data types.
 
--Removed null & missing values.
+- Removed null & missing values.
 
--Removed Duplicates & inconsistent data.
+- Removed Duplicates & inconsistent data.
 
--Created New Columns.
+- Created New Columns.
 
--Rename Columns.
+- Rename Columns.
 
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/DCT.png">Clean & Transformation Process</a>
 
@@ -34,14 +34,14 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 
 
 ## Insights & Recommendations
--Some brands have overproduced, leading to excess inventory. Consider promotions or discounts to reduce unsold stock. 
+- Some brands have overproduced, leading to excess inventory. Consider promotions or discounts to reduce unsold stock. 
 
--A spike in perfume sales created a peak trend for specific brands. Increase production or restock top performers to meet future demand.
+- A spike in perfume sales created a peak trend for specific brands. Increase production or restock top performers to meet future demand.
 
 ## Limitations & Potential Solutions
--Promotions or discounts can reduce profit margins over time. Bundle excess inventory with popular items to clear stock without direct discounts. 
+- Promotions or discounts can reduce profit margins over time. Bundle excess inventory with popular items to clear stock without direct discounts. 
 
--Since demand is unpredictable, improving forecasting with past sales, trends, and market behaviour can help predict demand and avoid overproduction.
+- Since demand is unpredictable, improving forecasting with past sales, trends, and market behaviour can help predict demand and avoid overproduction.
 
 ## Summary
 Overproduction is leading to excess inventory and wasted resources. Targeted promotions could help reduce unsold stock. 
