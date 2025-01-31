@@ -14,3 +14,7 @@ Which brands have the most unsold inventory compared to their sales?
 How can production be optimized to align with changing sales trends?
 
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Screenshot%202025-01-27%20201433.png">View Dashboard</a>
+
+## Cleaning & Transformation
+
+<a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/DCT.png">Clean & Transformation Process</a>
