@@ -44,6 +44,5 @@ Since demand is unpredictable, improving forecasting with past sales, trends, an
 
 ## Summary
 Overproduction is leading to excess inventory and wasted resources. Targeted promotions could help reduce unsold stock. 
-
 Sales spike in one month highlighted peak demand for certain brands, suggesting the need to increase production or restock top performers for future demand.
 
