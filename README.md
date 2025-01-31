@@ -7,6 +7,10 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/ebay_mens_perfume.csv">Dataset</a>
 
 ## Questions (KPIs)
-What brands are seeing an increase in popularity? 
+What brands are seeing an increase in popularity?
+
 Which brands have the most unsold inventory compared to their sales?
+
 How can production be optimized to align with changing sales trends?
+
+<a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Screenshot%202025-01-27%20201433.png">View Dashboard</a>
