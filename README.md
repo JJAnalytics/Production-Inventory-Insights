@@ -27,3 +27,19 @@ Created New Columns.
 Rename Columns.
 
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/DCT.png">Clean & Transformation Process</a>
+
+##View Of Dashboard
+
+<a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Screenshot%202025-01-27%20201433.png">View Dashboard</a>
+
+## Insights & Recommendations
+Some brands have overproduced, leading to excess inventory. Consider promotions or discounts to reduce unsold stock. 
+A spike in perfume sales created a peak trend for specific brands. Increase production or restock top performers to meet future demand.
+
+## Limitations & Potential Solutions
+Promotions or discounts can reduce profit margins over time. Bundle excess inventory with popular items to clear stock without direct discounts. 
+Since demand is unpredictable, improving forecasting with past sales, trends, and market behaviour can help predict demand and avoid overproduction.
+
+## Summary
+Overproduction is leading to excess inventory and wasted resources. Targeted promotions could help reduce unsold stock. Sales spike in one month highlighted peak demand for certain brands, suggesting the need to increase production or restock top performers for future demand.
+
