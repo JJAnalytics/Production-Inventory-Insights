@@ -24,7 +24,7 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 
 - Created New Columns.
 
-- Rename Columns.
+- Renamed Columns.
 
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/DCT.png">Clean & Transformation Process</a>
 
