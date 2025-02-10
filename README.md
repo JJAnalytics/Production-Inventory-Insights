@@ -33,12 +33,18 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 ![image](https://github.com/user-attachments/assets/110524c9-5140-4d16-b564-ad216cd9ba54)
 
 ## Insights & Recommendations
-- Some brands have overproduced, leading to excess inventory. Consider promotions or discounts to reduce unsold stock. 
+- Some brands have overproduced, leading to excess inventory.
 
-- A spike in perfume sales created a peak trend for specific brands. Increase production or restock top performers to meet future demand.
+  Consider promotions or discounts to reduce unsold stock. 
+
+- A spike in perfume sales created a peak trend for specific brands.
+
+  Increase production or restock top performers to meet future demand.
 
 ## Limitations & Potential Solutions
-- Promotions or discounts can reduce profit margins over time. Bundle excess inventory with popular items to clear stock without direct discounts. 
+- Promotions or discounts can reduce profit margins over time.
+
+  Bundle excess inventory with popular items to clear stock without direct discounts. 
 
 - Since demand is unpredictable, improving forecasting with past sales, trends, and market behaviour can help predict demand and avoid overproduction.
 
