@@ -1,7 +1,7 @@
 # Production-Inventory-Insights (Created using MS Excel & Tableau)
 
 ## Overview
-This analysis will focus on the perfume market dataset sourced from eBay, comprising detailed information on 2,000 perfume listings. By examining brands, current market trends and consumer preferences. The aim is to empower brands to make data-driven decisions that can guide product development, optimize inventory management, and improve market positioning.
+This analysis will focus on the perfume market dataset sourced from eBay, comprising detailed information on 2,000 perfume listings. By examining brands, current market trends and consumer preferences. The aim is to empower brands to make data-driven decisions that can guide product development, optimise inventory management, and improve market positioning.
 
 ## Dataset
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/ebay_mens_perfume.csv">Dataset</a>
@@ -11,12 +11,12 @@ This analysis will focus on the perfume market dataset sourced from eBay, compri
 
 - Which brands have the most unsold inventory compared to their sales?
 
-- How can production be optimized to align with changing sales trends?
+- How can production be optimised to align with changing sales trends?
 
 <a href="https://github.com/JJAnalytics/Production-Inventory-Insights/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Cleaning & Transformation Of Dataset
-- Correct data types.
+- Corrected data types.
 
 - Removed null & missing values.
 
